@@ -2,4 +2,10 @@
     color: green;
     position: center;
     text-align: center;
+    font-size: 1.2em;
+}
+.artigo {
+    color: darkblue;
+    text-align: center;
+    font-size: 1.2em;
 }
